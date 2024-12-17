@@ -14,5 +14,7 @@ Text Generation: Generate sequences of text using trained models.
 
 🛠️ Technologies Used
 NumPy: For data preprocessing and handling numerical computations.
+
 Keras: Simplifies building and training neural networks.
+
 TensorFlow: Backend framework for efficient deep learning computation.
