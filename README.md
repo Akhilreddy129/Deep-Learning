@@ -13,6 +13,7 @@ Flexible Input Data: Works with any text dataset of your choice.
 Text Generation: Generate sequences of text using trained models.
 
 🛠️ Technologies Used
+
 NumPy: For data preprocessing and handling numerical computations.
 
 Keras: Simplifies building and training neural networks.
